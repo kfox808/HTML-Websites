@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Venus Ki Galleri</title>
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>  
+  <body>
+    <h1><a href ="https://venus-ki-galleri.glitch.me/">Venus Ki Galleri</a></h1>
+    <div class="chart">
+    <p>
+     About
+    </p>
+    </div>
+    
+      <p>
+        Hey everyone, it's Ki! Here is my gallery of my artwork. Made straight from Chicago, Il! Some is wearable and some can be just for display. Some pieces will speak to
+        you. Feel free to browse around because you never know what's calling for you. Thank you so your support and visiting my gallery.
+        
+  
+    </p>
+    
+    <p>
+      Sincerely,
+    </p>
+    
+    <p>
+      Kira Fox
+    </p>
+  </body>
+</html>
