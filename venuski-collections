@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Venus Ki Galleri</title>
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>  
+  <body>
+    <h1><a href ="https://venus-ki-galleri.glitch.me/">Venus Ki Galleri</a></h1>
+    <div class="chart">
+     <p>
+     Collections
+   </p>
+    </div>
+ <div class="chart"> 
+  
+   
+   
+    <style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 10px;
+}
+</style>
+
+<body>
+
+<div class="chart">
+  
+  
+<table style="width:100%">
+  
+
+
+  
+</table>
+
+    <table border = "1">
+    
+      <thead>
+        <tr>
+          <td><img src="https://cdn.glitch.com/555c3531-6917-4d2f-8e4d-706138f105db%2FIMG-8669.jpg"  alt="Item"style="width:200px;height:200px;"/><br/>Solar System Collection </td>
+          <td><img src="https://cdn.glitch.com/555c3531-6917-4d2f-8e4d-706138f105db%2FIMG-8668.jpg"  alt="Item"style="width:200px;height:200px;"/><br/>Portrait Collection </td>
+          <!--<td><img src="" alt="Item"style="width:200px;height:200px;"/><br/>Portrait Collection </td>
+          <td>...</td>
+          
+        </tr>
+      </thead>
+     <!--<tbody>
+      <tr>
+          <td>...</td>
+          <td>...</td>
+          <td>...</td>
+          <td>...</td>
+          
+      </tr>
+       <tr>
+          <td>...</td>
+          <td>...</td>
+          <td>...</td>
+          <td>...</td>
+          
+      </tr>
+      </tbody> 
+      <tfoot>
+       <tr>
+          <td>...</td>
+          <td>...</td>
+          <td>...</td>
+          <td>...</td>
+          
+      </tr>
+      
+      </tfoot>
+      
+    </table>
+  </div>
+    <p>
+     
+    </p>
+
+    <!-- include the Glitch button to show what the webpage is about and
+          to make it easier for folks to view source and remix -->
+    
+  </body>
+</html>
