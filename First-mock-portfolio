@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Kira Fox's Portfolio</title>
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>  
+  <body>
+    <h1>Kira Fox's Portfolio</h1>
+    
+   <!-- <p> Email:kalenafox808@gmail.com</p>-->
+    
+    <p>
+       <table border = "1">
+    
+      <thead>
+        <tr>
+          <td><img src= "https://cdn.glitch.com/3f41ce45-96fe-41ad-b314-5e50183b1315%2FSunflo.png?v=1604116822702.png"alt="Item"style="width:400px;height:400px;"/></td>
+          <td><img src= "https://cdn.glitch.com/3f41ce45-96fe-41ad-b314-5e50183b1315%2Funnamed.jpg?v=1604116814877.png"alt="Item"style="width:400px;height:400px;"</td>
+          <td><img src= "https://cdn.glitch.com/3f41ce45-96fe-41ad-b314-5e50183b1315%2Fphotoshopmasterpiece1.jpg?v=1604116844070.png"alt="Item"style="width:400px;height:400px;"</td>
+        </tr>
+      </thead>
+    <tbody>
+         <tr>
+          <td><img src= "https://cdn.glitch.com/3f41ce45-96fe-41ad-b314-5e50183b1315%2Funnamed-1.jpg?v=1604462140694.png"alt="Item"style="width:400px;height:400px;"/></td>
+          <td><img src= "https://cdn.glitch.com/3f41ce45-96fe-41ad-b314-5e50183b1315%2FSplash.png?v=1604462468094.png"alt="Item"style="width:400px;height:400px;"/></td>
+          <td><img src= "https://cdn.glitch.com/3f41ce45-96fe-41ad-b314-5e50183b1315%2Frockkkker.png?v=1604116830746.png"alt="Item"style="width:400px;height:400px;"/></td>
+        </tr>
+        
+         <tr>
+          <td><img src= "https://cdn.glitch.com/3f41ce45-96fe-41ad-b314-5e50183b1315%2FIMG-0477.jpg?v=1604463214867.png"alt="Item"style="width:400px;height:400px;"/></td>
+          <td><img src= "https://cdn.glitch.com/3f41ce45-96fe-41ad-b314-5e50183b1315%2FIMG-0202.PNG?v=1604461916617.png"alt="Item"style="width:400px;height:400px;"/></td>
+          <td><img src= "https://cdn.glitch.com/3f41ce45-96fe-41ad-b314-5e50183b1315%2FIMG-0874.PNG?v=1604463873597.png"alt="Item"style="width:400px;height:400px;"/></td>
+        </tr>
+      
+         <tr>
+          <td><img src= "https://cdn.glitch.com/3f41ce45-96fe-41ad-b314-5e50183b1315%2FIMG-0871.PNG?v=1604465048100.png"alt="Item"style="width:400px;height:400px;"/></td>
+          <td><video src="https://cdn.glitch.com/3f41ce45-96fe-41ad-b314-5e50183b1315%2Fvideo-0-7a089d3ea9584bba85da8ab862a4ca8a.MP4?v=1604461573166.mp4"type="video/mp4"src="https://cdn.glitch.com/3f41ce45-96fe-41ad-b314-5e50183b1315%2Fvideo-0-7a089d3ea9584bba85da8ab862a4ca8a.MP4?v=1604461573166.ogg"type="video/ogg"alt="Item"style="width:400px;height:400px;"controls> /></td>
+          <td><img src= "https://cdn.glitch.com/3f41ce45-96fe-41ad-b314-5e50183b1315%2FIMG-0873.PNG?v=1604465328984.png"alt="Item"style="width:400px;height:400px;"/></td>
+        </tr>
+    
+    </tbody>   
+         
+     <tfoot>
+         <tr>
+          <td><video src="https://cdn.glitch.com/3f41ce45-96fe-41ad-b314-5e50183b1315%2FRPReplay-Final1580694123.mov?v=1604461224955.mp4"type="video/mp4"src="https://cdn.glitch.com/3f41ce45-96fe-41ad-b314-5e50183b1315%2FRPReplay-Final1580694123.mov?v=1604461224955.ogg"type="video/ogg"alt="Item"style="width:400px;height:400px;"controls> /></td>
+          <td><video src="https://cdn.glitch.com/3f41ce45-96fe-41ad-b314-5e50183b1315%2Fvideo-1-a69883122a594e1aa5e9887976581877.MP4?v=1604459850962.mp4"type="video/mp4" src="https://cdn.glitch.com/3f41ce45-96fe-41ad-b314-5e50183b1315%2Fvideo-1-a69883122a594e1aa5e9887976581877.MP4?v=1604459850962.ogg"type="video/ogg"alt="Item"style="width:400px;height:400px;"controls> /></td>
+          <td><video src="https://cdn.glitch.com/3f41ce45-96fe-41ad-b314-5e50183b1315%2Fvideo-1-cb60520df1424748871b0383ff4db8a6.MP4?v=1604457537792.mp4"type="video/mp4"src="https://cdn.glitch.com/3f41ce45-96fe-41ad-b314-5e50183b1315%2Fvideo-1-cb60520df1424748871b0383ff4db8a6.MP4?v=1604457537792.ogg"type="video/ogg"alt="Item"style="width:400px;height:400px;"controls> /></td>
+        </tr>
+         </tfoot>
+        
+     
+      
+      
+    </p>
+    
+    <footer>
+    
+    <p>
+      Email
+      </p>
+      
+    </footer>
+    
+
+  </body>
+</html>
