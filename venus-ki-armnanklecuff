@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Venus Ki Galleri</title>
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>  
+  <body>
+    <h1><a href ="https://venus-ki-galleri.glitch.me/">Venus Ki Galleri</a></h1>
+    <div class="chart">
+     <p>
+     Arm and Ankle Cuffs
+   </p>
+    </div>
+ <div class="chart"> 
+  
+   
+   
+    <style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 100px;
+}
+</style>
+
+<body>
+
+<div class="chart">
+  
+  
+<table style="width:100%">
+  
+
+
+  
+</table>
+
+    <table border = "1">
+    
+      <thead>
+        <tr>
+          <td>...</td>
+          <td>...</td>
+          <td>...</td>
+          <td>...</td>
+          
+        </tr>
+      </thead>
+     <tbody>
+      <tr>
+          <td>...</td>
+          <td>...</td>
+          <td>...</td>
+          <td>...</td>
+          
+      </tr>
+       <tr>
+          <td>...</td>
+          <td>...</td>
+          <td>...</td>
+          <td>...</td>
+          
+      </tr>
+      </tbody> 
+      <tfoot>
+       <tr>
+          <td>...</td>
+          <td>...</td>
+          <td>...</td>
+          <td>...</td>
+          
+      </tr>
+      
+      </tfoot>
+      
+    </table>
+  </div>
+    <p>
+     
+    </p>
+
+    <!-- include the Glitch button to show what the webpage is about and
+          to make it easier for folks to view source and remix -->
+    
+  </body>
+</html>
