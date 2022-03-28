@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Venus Ki Galleri</title>
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>  
+  <body>
+    <h1><a href ="https://venus-ki-galleri.glitch.me/">Venus Ki Galleri</a></h1>
+    <div class="chart">
+     <p>
+     Necklaces
+   </p>
+    </div>
+ <div class="chart"> 
+  
+   
+   
+    <style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 10px;
+}
+</style>
+
+<body>
+
+<div class="chart">
+  
+  
+<table style="width:100%">
+  
+
+
+  
+</table>
+
+    <table border = "1">
+    
+      <thead>
+        <tr>
+          <td><img src="https://cdn.glitch.com/c1661ad1-321b-4be9-a078-79dffda7b51a%2F9C00FC92-6757-4B10-A795-6C10A406BECE.jpg"  alt="Item"style="width:200px;height:200px;"/><br/>Vermillion Sun - $20
+          <p><button>Add to Cart</button></p></td>
+          <td><img src="https://cdn.glitch.com/7c87fa6b-aeac-4826-a443-1025756faa68%2FIMG-7994.jpg"  alt="Item"style="width:200px;height:200px;"/><br/>All Seeing Eye - $15<p><button>Add to Cart</button></p></td>
+          <td><img src="https://cdn.glitch.com/7c87fa6b-aeac-4826-a443-1025756faa68%2FIMG-7995.jpg" alt="Item"style="width:200px;height:200px;"/><br/>The Elements - $20<p><button>Add to Cart</button></p></td>
+          <td><img src="https://cdn.glitch.com/7c87fa6b-aeac-4826-a443-1025756faa68%2F81259C80-B829-446A-A126-55374017CDC7.jpg" alt="Item"style="width:200px;height:200px;"/><br/>Angela - $30<p><button>Add to Cart</button></p></td>
+          
+        </tr>
+      <!--</thead>
+     <tbody>
+      <tr>
+          <td>...</td>
+          <td>...</td>
+          <td>...</td>
+          <td>...</td>
+          
+      </tr>
+       <tr>
+          <td>...</td>
+          <td>...</td>
+          <td>...</td>
+          <td>...</td>
+          
+      </tr>
+      </tbody> 
+      <tfoot>
+       <tr>
+          <td>...</td>
+          <td>...</td>
+          <td>...</td>
+          <td>...</td>
+          
+      </tr>
+      
+      </tfoot>
+      
+    </table>
+  </div>
+    <p>
+     
+    </p>
+
+    <!-- include the Glitch button to show what the webpage is about and
+          to make it easier for folks to view source and remix -->
+    
+  </body>
+</html>
