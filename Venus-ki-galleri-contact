@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Venus Ki Galleri</title>
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>  
+  <body>
+    <h1><a href ="https://venus-ki-galleri.glitch.me/">Venus Ki Galleri</a></h1>
+    <div class="chart">
+    <p>
+      
+      
+      Contact Me
+    </p>
+      </div>
+        
+      <div class="chart">
+      <form>
+        <fieldset>
+          
+        
+          <label>Name:<input type="text" name="name"/></label>
+          <br/>
+          <br/>
+          <br/>
+          <label>Email:<input type="text" email="email"></label>
+          <br/>
+          <br/>
+          <br/>
+          <label>Message:<br/>
+            <input type="text"<div class="div1"></div></label>
+          
+        </fieldset>
+      </form>
+    </div>
+  </body>
+</html>
