@@ -1,0 +1,118 @@
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Venus Ki Galleri</title>
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>  
+  <body>
+    <div class="chart">
+      <h1><a href ="https://venus-ki-galleri.glitch.me/">Venus Ki Galleri</a></h1>
+      </div>
+        
+      
+    <nav>
+      <ul>
+        
+        <li> <a href ="https://venuski-collections.glitch.me/">Collections</a></li>
+        
+        <li> <a href ="https://venus-ki-armnanklecuff.glitch.me/">Arm and Ankle cuffs</a></li>
+        
+        <li> <a href ="https://venus-kinoseand-earcuff.glitch.me/">Nose and Ear Cuffs</a></li>
+        
+        <li> <a href ="https://venus-kiearrings.glitch.me/">Earrings</a></li>
+        
+        <li> <a href ="https://venus-ki-necklaces.glitch.me/">Necklaces</a></li>
+        
+        <li> <a href ="https://hair-accessories-venuskigalleri.glitch.me/">Hair Accessories</a></li>
+        
+        <li> <a href ="https://venus-ki-customization.glitch.me/">Request Customization</a></li>
+         
+      </ul>
+    </nav>
+    
+    <style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 10px;
+}
+</style>
+
+<body>
+
+<div class="chart">
+  
+  
+<table style="width:100%">
+  
+
+
+  
+</table>
+
+    <table border = "1">
+    
+      <thead>
+        <tr>
+          <td><br/><img src="https://cdn.glitch.com/c1661ad1-321b-4be9-a078-79dffda7b51a%2FIMG-8624.JPG"  alt="Item"style="width:200px;height:200px;"/><br/>Chaotic Good Angel YB Poster 1 - $70<p><button>Add to Cart</button></p></td>
+          <td><img src="https://cdn.glitch.com/c1661ad1-321b-4be9-a078-79dffda7b51a%2FIMG-8348.JPG"  alt="Item"style="width:200px;height:200px;"/><br/>New Orleans Evening Poster - $30<p><button>Add to Cart</button></p></td>
+          <td><img src="https://cdn.glitch.com/c1661ad1-321b-4be9-a078-79dffda7b51a%2F0F2CF411-0E2F-417F-9BDD-DE4A6FAFE5B1.JPG"  alt="Item"style="width:200px;height:200px;"/><br/>Blu Poster - $30<p><button>Add to Cart</button></p></td>
+          <td><img src="https://cdn.glitch.com/c1661ad1-321b-4be9-a078-79dffda7b51a%2F57137EC7-56BD-4A64-838F-34709C6FF873.JPG"  alt="Item"style="width:200px;height:200px;"/><br/>Violets and Golden Freedom Poster - $50<p><button>Add to Cart</button></p></td>
+          
+        </tr>
+      </thead>
+     <tbody>
+      <tr>
+          <td><img src="https://cdn.glitch.com/c1661ad1-321b-4be9-a078-79dffda7b51a%2FIMG-8357.JPG"  alt="Item"style="width:200px;height:200px;"/><br/>Purple Desert Poster - $30<p><button>Add to Cart</button></p></td>
+          <td><img src="https://cdn.glitch.com/c1661ad1-321b-4be9-a078-79dffda7b51a%2FIMG-8403.JPG"  alt="Item"style="width:200px;height:200px;"/><br/>Trippy Trips Poster - $35<p><button>Add to Cart</button></p></td>
+          <td><img src="https://cdn.glitch.com/c1661ad1-321b-4be9-a078-79dffda7b51a%2F7C2CEBCD-6537-4018-A5DC-999AA7161F97.JPG"  alt="Item"style="width:200px;height:200px;"/><br/>Rise Poster - $40<p><button>Add to Cart</button></p></td>
+          <td><img src="https://cdn.glitch.com/c1661ad1-321b-4be9-a078-79dffda7b51a%2FIMG-8548.JPG"  alt="Item"style="width:200px;height:150px;"/><br/>Faces Poster - $30<p><button>Add to Cart</button></p></td>
+          
+      </tr>
+       <tr>
+          <td><img src="https://cdn.glitch.com/c1661ad1-321b-4be9-a078-79dffda7b51a%2FIMG-8645.jpg"  alt="Item"style="width:200px;height:200px;"/><br/>Dragon Poster - $55<p><button>Add to Cart</button></p></td>
+          <td><img src="https://cdn.glitch.com/c1661ad1-321b-4be9-a078-79dffda7b51a%2FIMG-7614.JPG"  alt="Item"style="width:180px;height:200px;"/><br/>Slick Poster - $40<p><button>Add to Cart</button></p></td>
+          <td><img src="https://cdn.glitch.com/c1661ad1-321b-4be9-a078-79dffda7b51a%2F9C00FC92-6757-4B10-A795-6C10A406BECE.jpg"  alt="Item"style="width:200px;height:200px;"/><br/>Vermillion Sun - $20<p><button>Add to Cart</button></p></td>
+          <td><img src="https://cdn.glitch.com/c1661ad1-321b-4be9-a078-79dffda7b51a%2FIMG-8354.jpg"  alt="Item"style="width:200px;height:200px;"/><br/>Woman - $25<p><button>Add to Cart</button></p></td>
+          
+      </tr>
+      </tbody> 
+      <tfoot>
+       <tr>
+          <td><img src="https://cdn.glitch.com/c1661ad1-321b-4be9-a078-79dffda7b51a%2FIMG-8352.jpg"  alt="Item"style="width:200px;height:200px;"/><br/>Suns - $18<p><button>Add to Cart</button></p></td>
+          <td><img src="https://cdn.glitch.com/c1661ad1-321b-4be9-a078-79dffda7b51a%2FC8DA8D05-F168-40D0-9763-3449D2600866.jpg"  alt="Item"style="width:200px;height:200px;"/><br/>Sight - $20<p><button>Add to Cart</button></p></td>
+          <td><img src="https://cdn.glitch.com/c1661ad1-321b-4be9-a078-79dffda7b51a%2FC562EC00-9AA2-4528-8079-9F32204F9D8A.jpg"  alt="Item"style="width:200px;height:200px;"/><br/>Daisy Ear - cuff $5<p><button>Add to Cart</button></p></td>
+          <td><img src="https://cdn.glitch.com/c1661ad1-321b-4be9-a078-79dffda7b51a%2F109CBC24-7BCF-4119-A620-044FA848E7DF.JPG"  alt="Item"style="width:200px;height:200px;"/><br/>Silver Abstract body - $20<p><button>Add to Cart</button></p></td>
+          
+      </tr>
+      
+      </tfoot>
+      
+    </table>
+  </div>
+    <footer>
+  <p>
+    <a href ="https://venus-ki-about.glitch.me/">About</a>
+    </p>
+      
+      <p>
+        <a href ="https://venus-ki-contact.glitch.me/">Contact me</a>
+    </p>
+  </footer>
+    
+      
+    <!-- include the Glitch button to show what the webpage is about and
+          to make it easier for folks to view source and remix -->
+  </body>
+</html>
