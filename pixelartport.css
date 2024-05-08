@@ -1,0 +1,87 @@
+body{
+    background-color: darkslategray;
+    background-image: url(https://cdn.glitch.global/6d7c94f8-3038-46a0-8dba-3c187eca0d38/IMG_9029.jpeg?v=1690575696105);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 93% 700px;
+    padding: 50px;
+}
+.div{
+
+    background-color: rgb(42, 41, 41);
+    text-align: center;
+    color:goldenrod;
+    border-style: double;
+    border-color: rosybrown;
+
+}
+.div2{
+
+    background-color: rgb(42, 41, 41);
+    text-align: left;
+    color:goldenrod;
+    border-style: double;
+    border-color: rosybrown;
+    width: 25%;
+    
+
+}
+.text{
+    color:goldenrod;
+}
+.button{
+    background-color: rgba(81, 81, 81,0.75);
+    border-style: double;
+    border-color: rosybrown;
+    color:goldenrod;
+    padding: 10px;
+
+
+}
+.b:link{
+    color: goldenrod;
+    text-decoration: none;
+}
+
+.b:visited{
+    color: goldenrod;
+    text-decoration: none;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+}
+  
+  /* Create four equal columns that sits next to each other */
+    .column {
+        flex: 20%;
+        max-width: 25%;
+        padding: 0 4px;
+    }
+  
+  
+  /* Create four equal columns that sits next to each other */
+  
+    .column img {
+        margin-top: 8px;
+        vertical-align: middle;
+        width: 100%;
+    }
+
+    .table{
+        color:goldenrod;
+    }
+
+    
+    
+  
+
+footer{
+    text-align: center;
+    background-color: rgb(47, 47, 47);
+    border-style:double;
+    border-color: rosybrown;
+
+}

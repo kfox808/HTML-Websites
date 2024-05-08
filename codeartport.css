@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(0, 0, 0);
+    background-image: url(https://cdn.glitch.global/5b358bce-71c2-42dc-94c1-3dd7a49a97cd/IMG_2629.jpeg?v=1686238726406);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 93% 700px;
+    padding: 50px;
+}
+.div{
+
+    background-color: black;
+    text-align: center;
+    color:aquamarine;
+    border-style: double;
+    border-color: darkseagreen;
+
+}
+.text{
+    color:aquamarine;
+}
+.button{
+    background-color: orangered;
+    border-style: double;
+    border-color: darkseagreen;
+    color:aquamarine;
+    padding: 10px;
+
+
+}
+.b:link{
+    color: aquamarine;
+    text-decoration: none;
+}
+
+.b:visited{
+    color: aquamarine;
+    text-decoration: none;
+}
+footer{
+    background-color: orangered;
+    border-style:groove;
+    border-color: darkseagreen;
+
+}
